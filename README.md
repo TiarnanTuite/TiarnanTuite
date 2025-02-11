@@ -14,10 +14,15 @@
 <p align="left">
 <div align="left">
 📍-  I am from Galway, Ireland.
+  <br>
 🏋🏽- I enjoy keeping active by training Muay Thai, Running and Weight lifting.
+   <br>
 ✈️- I love travelling, I have travelled in europe and have spent 3 months in Thailand completing a Muay Thai training camp.
+   <br>
 🖥️- I built my first computer in Secondary school at 15 and have been in love with technology ever since.
+   <br>
 👨‍💻- In love with solving complex problems and thinking logically both in programming and every day life.
+ <br>
   
 </div>
 </p>
