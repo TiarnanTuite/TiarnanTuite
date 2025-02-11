@@ -13,7 +13,7 @@
 <h3 align="left">💬About me:</h3>
 <p align="left">
 <div align="left">
-📍-  I am from Galway, Ireland.
+📍-</t>I am from Galway, Ireland.
   <br>
 🏋🏽- I enjoy keeping active by training Muay Thai, Running and Weight lifting.
    <br>
